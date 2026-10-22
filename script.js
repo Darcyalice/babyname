@@ -15,7 +15,7 @@ Papa.parse('TopBabyNamesbyState.csv', {
         <td>${row.State}</td>
         <td>${row.Gender}</td>
         <td>${row.Year}</td>
-        <td>${row.Top Name}</td>
+        <td>${row.TopName}</td>
         <td>${row.Occurences}</td>
       `;
  
